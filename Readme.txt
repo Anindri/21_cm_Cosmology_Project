@@ -1,0 +1,1 @@
+Study of H1-21cm signal from the Cosmic Dawn using three dimensional 600cube GRIZZLY numerical simulations for different astrophysical fields. In this project I model, analyse and interpret simulated conditions of the era of first star formations, using Python. The project further continues into my dissertation to check the robustness of my analysis. 
